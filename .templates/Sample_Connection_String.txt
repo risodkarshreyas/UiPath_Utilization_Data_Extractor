@@ -1,0 +1,1 @@
+Data Source=<InstanceName>;Initial Catalog=<DatabaseName>;Persist Security Info=True;User ID=<userid>;Password=<Password>;Encrypt=False

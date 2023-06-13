@@ -1,0 +1,1 @@
+Data Source=LAPTOP-2UEU0KDI\MSSQLSERVER03;Initial Catalog=UiPath;User ID=uipath_sql;Password=*****;Encrypt=False
