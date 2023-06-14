@@ -1,5 +1,5 @@
 {
-  "name": "UiPath_Utilization_Reporting_Bot",
+  "name": "UiPath_Utilization_Data_Extractor",
   "description": "Blank Process",
   "main": "Main.xaml",
   "dependencies": {
@@ -22,6 +22,7 @@
     "isAttended": false,
     "requiresUserInteraction": true,
     "supportsPersistence": false,
+    "workflowSerialization": "DataContract",
     "excludedLoggedData": [
       "Private:*",
       "*password*"
